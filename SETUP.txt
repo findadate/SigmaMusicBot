@@ -1,0 +1,31 @@
+=== SIGMA MUSIC BOT - WISPBYTE SETUP ===
+
+STEP 1: Fill in config.json
+  - "bot_token": Your Highrise bot token
+  - "room_id": Your Highrise room ID
+  - "radio_password": Your Caster.fm password
+
+STEP 2: Make sure requirements are installed
+  pip install -r requirements.txt
+
+STEP 3: Start the bot
+  python3 main.py
+  OR on Wispbyte: the startup command is: python3 main.py
+
+STEP 4: Set Highrise radio URL
+  After bot starts, your radio URL is:
+  http://[your-wispbyte-domain]/radio
+  (e.g. https://yourbot.wispbyte.com/radio)
+  Go to Highrise room settings > Radio > paste this URL
+
+STEP 5: Verify
+  - Bot will send "[RELAY] Radio endpoint: http://0.0.0.0:3000/radio" on start
+  - AutoDJ starts automatically
+  - Users can type -play [song] to request songs
+  - Owner/Mod can type -skip to skip current song
+
+COMMANDS:
+  -play [song]  - Request a song
+  -skip         - Skip current song (owner/mod/requester)
+  -np           - Now playing
+  -q            - View queue

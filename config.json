@@ -1,0 +1,113 @@
+{
+    "bot_token": "bdeaf1fc81f0baa24e0f634b2c62164699c2d8d9b1b91bbf3358068c006da84b",
+    "room_id": "68e27f6e9796e3239f1cd493",
+    "force_restart": false,
+    "owners": [
+        "SUNLIGHT._.1",
+        "Sigma_Boy__",
+        ""
+    ],
+    "bot_position": {
+        "x": 18.5,
+        "y": 0.0,
+        "z": 6.5,
+        "facing": "FrontRight"
+    },
+    "vip_temp_price": 5,
+    "vip_perm_price": 100,
+    "paid_mode": true,
+    "bot_outfit": [
+        {
+            "type": "clothing",
+            "id": "body-flesh",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 65
+        },
+        {
+            "type": "clothing",
+            "id": "shirt-n_electionsuitdark",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "pants-n_electionpantsdark",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "nose-n_01",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "glasses-n_registrationavatars2023billieglasses",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "shoes-n_2016artistloafers",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "mouth-n_aprilfoolsinvisible2020mouth",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 0
+        },
+        {
+            "type": "clothing",
+            "id": "hair_front-n_malenew01",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 1
+        },
+        {
+            "type": "clothing",
+            "id": "hair_back-n_malenew01",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 1
+        },
+        {
+            "type": "clothing",
+            "id": "eye-n_basic2018zanyeyes",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 7
+        },
+        {
+            "type": "clothing",
+            "id": "eyebrow-n_21",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        }
+    ],
+    "blocked_users": [],
+    "autodj": true,
+    "volume": 100,
+    "moderators": [
+        "",
+        ""
+    ],
+    "radio_host": "sapircast.caster.fm",
+    "radio_port": 16864,
+    "radio_mount": "/FLyS7",
+    "radio_password": "uwr8MWBWTl",
+    "radio_username": "source",
+    "radio_bitrate": 96,
+    "relay_port": 10671,
+    "use_embedded_relay": true
+}

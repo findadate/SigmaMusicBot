@@ -1,0 +1,2352 @@
+{
+  "model": {
+    "id": "emote-model",
+    "duration": 6.490173,
+    "is_free": true
+  },
+  "1": {
+    "id": "emote-model",
+    "duration": 6.490173,
+    "is_free": true
+  },
+  "dont start now": {
+    "id": "dance-tiktok2",
+    "duration": 10.392353,
+    "is_free": true
+  },
+  "2": {
+    "id": "dance-tiktok2",
+    "duration": 10.392353,
+    "is_free": true
+  },
+  "russian": {
+    "id": "dance-russian",
+    "duration": 10.252905,
+    "is_free": true
+  },
+  "3": {
+    "id": "dance-russian",
+    "duration": 10.252905,
+    "is_free": true
+  },
+  "teleport": {
+    "id": "emote-teleporting",
+    "duration": 11.7676,
+    "is_free": true
+  },
+  "4": {
+    "id": "emote-teleporting",
+    "duration": 11.7676,
+    "is_free": true
+  },
+  "curtsy": {
+    "id": "emote-curtsy",
+    "duration": 2.425714,
+    "is_free": true
+  },
+  "5": {
+    "id": "emote-curtsy",
+    "duration": 2.425714,
+    "is_free": true
+  },
+  "lets go shopping": {
+    "id": "dance-shoppingcart",
+    "duration": 4.316035,
+    "is_free": true
+  },
+  "6": {
+    "id": "dance-shoppingcart",
+    "duration": 4.316035,
+    "is_free": true
+  },
+  "greedy": {
+    "id": "emote-greedy",
+    "duration": 4.639828,
+    "is_free": true
+  },
+  "7": {
+    "id": "emote-greedy",
+    "duration": 4.639828,
+    "is_free": true
+  },
+  "sing along": {
+    "id": "idle_singing",
+    "duration": 10.260182,
+    "is_free": true
+  },
+  "8": {
+    "id": "idle_singing",
+    "duration": 10.260182,
+    "is_free": true
+  },
+  "pennywise": {
+    "id": "dance-pennywise",
+    "duration": 0.37,
+    "is_free": false
+  },
+  "9": {
+    "id": "dance-pennywise",
+    "duration": 0.37,
+    "is_free": false
+  },
+  "bow": {
+    "id": "emote-bow",
+    "duration": 3.344036,
+    "is_free": true
+  },
+  "10": {
+    "id": "emote-bow",
+    "duration": 3.344036,
+    "is_free": true
+  },
+  "snowball fight": {
+    "id": "emote-snowball",
+    "duration": 5.230467,
+    "is_free": true
+  },
+  "11": {
+    "id": "emote-snowball",
+    "duration": 5.230467,
+    "is_free": true
+  },
+  "confused": {
+    "id": "emote-confused",
+    "duration": 8.578827,
+    "is_free": true
+  },
+  "12": {
+    "id": "emote-confused",
+    "duration": 8.578827,
+    "is_free": true
+  },
+  "charging": {
+    "id": "emote-charging",
+    "duration": 8.025079,
+    "is_free": true
+  },
+  "13": {
+    "id": "emote-charging",
+    "duration": 8.025079,
+    "is_free": true
+  },
+  "floating": {
+    "id": "emote-float",
+    "duration": 8.995302,
+    "is_free": true
+  },
+  "14": {
+    "id": "emote-float",
+    "duration": 8.995302,
+    "is_free": true
+  },
+  "frog hop": {
+    "id": "emote-frog",
+    "duration": 14.55257,
+    "is_free": false
+  },
+  "15": {
+    "id": "emote-frog",
+    "duration": 14.55257,
+    "is_free": false
+  },
+  "enthused": {
+    "id": "idle-enthusiastic",
+    "duration": 15.941537,
+    "is_free": true
+  },
+  "16": {
+    "id": "idle-enthusiastic",
+    "duration": 15.941537,
+    "is_free": true
+  },
+  "grave dance": {
+    "id": "dance-weird",
+    "duration": 21.556237,
+    "is_free": true
+  },
+  "17": {
+    "id": "dance-weird",
+    "duration": 21.556237,
+    "is_free": true
+  },
+  "sword fight": {
+    "id": "emote-swordfight",
+    "duration": 5.914365,
+    "is_free": true
+  },
+  "18": {
+    "id": "emote-swordfight",
+    "duration": 5.914365,
+    "is_free": true
+  },
+  "do the worm": {
+    "id": "emote-snake",
+    "duration": 5.262578,
+    "is_free": false
+  },
+  "19": {
+    "id": "emote-snake",
+    "duration": 5.262578,
+    "is_free": false
+  },
+  "viral groove": {
+    "id": "dance-tiktok9",
+    "duration": 11.892918,
+    "is_free": true
+  },
+  "20": {
+    "id": "dance-tiktok9",
+    "duration": 11.892918,
+    "is_free": true
+  },
+  "shuffle dance": {
+    "id": "dance-tiktok10",
+    "duration": 8.225648,
+    "is_free": true
+  },
+  "21": {
+    "id": "dance-tiktok10",
+    "duration": 8.225648,
+    "is_free": true
+  },
+  "raise the roof": {
+    "id": "emoji-celebrate",
+    "duration": 3.412258,
+    "is_free": true
+  },
+  "22": {
+    "id": "emoji-celebrate",
+    "duration": 3.412258,
+    "is_free": true
+  },
+  "emote cute": {
+    "id": "emote-cute",
+    "duration": 6.170464,
+    "is_free": true
+  },
+  "23": {
+    "id": "emote-cute",
+    "duration": 6.170464,
+    "is_free": true
+  },
+  "telekinesis": {
+    "id": "emote-telekinesis",
+    "duration": 10.492032,
+    "is_free": true
+  },
+  "24": {
+    "id": "emote-telekinesis",
+    "duration": 10.492032,
+    "is_free": true
+  },
+  "energy ball": {
+    "id": "emote-energyball",
+    "duration": 7.575354,
+    "is_free": true
+  },
+  "25": {
+    "id": "emote-energyball",
+    "duration": 7.575354,
+    "is_free": true
+  },
+  "maniac": {
+    "id": "emote-maniac",
+    "duration": 4.906886,
+    "is_free": true
+  },
+  "26": {
+    "id": "emote-maniac",
+    "duration": 4.906886,
+    "is_free": true
+  },
+  "snow angel": {
+    "id": "emote-snowangel",
+    "duration": 6.218627,
+    "is_free": true
+  },
+  "27": {
+    "id": "emote-snowangel",
+    "duration": 6.218627,
+    "is_free": true
+  },
+  "sweating": {
+    "id": "emote-hot",
+    "duration": 4.353037,
+    "is_free": true
+  },
+  "28": {
+    "id": "emote-hot",
+    "duration": 4.353037,
+    "is_free": true
+  },
+  "kpop": {
+    "id": "dance-blackpink",
+    "duration": 7.150958,
+    "is_free": true
+  },
+  "29": {
+    "id": "dance-blackpink",
+    "duration": 7.150958,
+    "is_free": true
+  },
+  "cutey": {
+    "id": "emote-cutey",
+    "duration": 3.26032,
+    "is_free": true
+  },
+  "30": {
+    "id": "emote-cutey",
+    "duration": 3.26032,
+    "is_free": true
+  },
+  "casual": {
+    "id": "idle-dance-casual",
+    "duration": 9.079756,
+    "is_free": true
+  },
+  "31": {
+    "id": "idle-dance-casual",
+    "duration": 9.079756,
+    "is_free": true
+  },
+  "pose1": {
+    "id": "emote-pose1",
+    "duration": 2.825795,
+    "is_free": true
+  },
+  "32": {
+    "id": "emote-pose1",
+    "duration": 2.825795,
+    "is_free": true
+  },
+  "pose3": {
+    "id": "emote-pose3",
+    "duration": 5.10562,
+    "is_free": true
+  },
+  "33": {
+    "id": "emote-pose3",
+    "duration": 5.10562,
+    "is_free": true
+  },
+  "pose5": {
+    "id": "emote-pose5",
+    "duration": 4.621532,
+    "is_free": true
+  },
+  "34": {
+    "id": "emote-pose5",
+    "duration": 4.621532,
+    "is_free": true
+  },
+  "pose7": {
+    "id": "emote-pose7",
+    "duration": 4.655283,
+    "is_free": true
+  },
+  "35": {
+    "id": "emote-pose7",
+    "duration": 4.655283,
+    "is_free": true
+  },
+  "pose8": {
+    "id": "emote-pose8",
+    "duration": 4.808806,
+    "is_free": true
+  },
+  "36": {
+    "id": "emote-pose8",
+    "duration": 4.808806,
+    "is_free": true
+  },
+  "gagging": {
+    "id": "emoji-gagging",
+    "duration": 5.073,
+    "is_free": true
+  },
+  "37": {
+    "id": "emoji-gagging",
+    "duration": 5.073,
+    "is_free": true
+  },
+  "savage": {
+    "id": "dance-tiktok8",
+    "duration": 10.938702,
+    "is_free": true
+  },
+  "38": {
+    "id": "dance-tiktok8",
+    "duration": 10.938702,
+    "is_free": true
+  },
+  "say so": {
+    "id": "idle-dance-tiktok4",
+    "duration": 15.500708,
+    "is_free": true
+  },
+  "39": {
+    "id": "idle-dance-tiktok4",
+    "duration": 15.500708,
+    "is_free": true
+  },
+  "fashion": {
+    "id": "emote-fashionista",
+    "duration": 5.606485,
+    "is_free": true
+  },
+  "40": {
+    "id": "emote-fashionista",
+    "duration": 5.606485,
+    "is_free": true
+  },
+  "gravity": {
+    "id": "emote-gravity",
+    "duration": 8.955966,
+    "is_free": true
+  },
+  "41": {
+    "id": "emote-gravity",
+    "duration": 8.955966,
+    "is_free": true
+  },
+  "uwu": {
+    "id": "idle-uwu",
+    "duration": 24.761968,
+    "is_free": false
+  },
+  "42": {
+    "id": "idle-uwu",
+    "duration": 24.761968,
+    "is_free": false
+  },
+  "wrong": {
+    "id": "dance-wrong",
+    "duration": 12.422389,
+    "is_free": true
+  },
+  "43": {
+    "id": "dance-wrong",
+    "duration": 12.422389,
+    "is_free": true
+  },
+  "sleigh": {
+    "id": "emote-sleigh",
+    "duration": 11.333165,
+    "is_free": true
+  },
+  "44": {
+    "id": "emote-sleigh",
+    "duration": 11.333165,
+    "is_free": true
+  },
+  "hyped": {
+    "id": "emote-hyped",
+    "duration": 7.492423,
+    "is_free": true
+  },
+  "45": {
+    "id": "emote-hyped",
+    "duration": 7.492423,
+    "is_free": true
+  },
+  "zombie": {
+    "id": "dance-zombie",
+    "duration": 12.922772,
+    "is_free": true
+  },
+  "46": {
+    "id": "dance-zombie",
+    "duration": 12.922772,
+    "is_free": true
+  },
+  "punk": {
+    "id": "emote-punkguitar",
+    "duration": 9.365807,
+    "is_free": true
+  },
+  "47": {
+    "id": "emote-punkguitar",
+    "duration": 9.365807,
+    "is_free": true
+  },
+  "shy": {
+    "id": "idle-loop-shy",
+    "duration": 16.47449,
+    "is_free": true
+  },
+  "48": {
+    "id": "idle-loop-shy",
+    "duration": 16.47449,
+    "is_free": true
+  },
+  "icecream": {
+    "id": "dance-icecream",
+    "duration": 14.769573,
+    "is_free": true
+  },
+  "49": {
+    "id": "dance-icecream",
+    "duration": 14.769573,
+    "is_free": true
+  },
+  "touch": {
+    "id": "dance-touch",
+    "duration": 11.7,
+    "is_free": true
+  },
+  "50": {
+    "id": "dance-touch",
+    "duration": 11.7,
+    "is_free": true
+  },
+  "guitar": {
+    "id": "idle-guitar",
+    "duration": 13.229398,
+    "is_free": true
+  },
+  "51": {
+    "id": "idle-guitar",
+    "duration": 13.229398,
+    "is_free": true
+  },
+  "kawaii": {
+    "id": "dance-kawai",
+    "duration": 10.290789,
+    "is_free": true
+  },
+  "52": {
+    "id": "dance-kawai",
+    "duration": 10.290789,
+    "is_free": true
+  },
+  "scritchy": {
+    "id": "idle-wild",
+    "duration": 26.422824,
+    "is_free": false
+  },
+  "53": {
+    "id": "idle-wild",
+    "duration": 26.422824,
+    "is_free": false
+  },
+  "celebration": {
+    "id": "emote-celebrationstep",
+    "duration": 3.353703,
+    "is_free": true
+  },
+  "54": {
+    "id": "emote-celebrationstep",
+    "duration": 3.353703,
+    "is_free": true
+  },
+  "surprise": {
+    "id": "emote-pose6",
+    "duration": 5.375124,
+    "is_free": true
+  },
+  "55": {
+    "id": "emote-pose6",
+    "duration": 5.375124,
+    "is_free": true
+  },
+  "bashful": {
+    "id": "emote-shy2",
+    "duration": 4.989278,
+    "is_free": true
+  },
+  "56": {
+    "id": "emote-shy2",
+    "duration": 4.989278,
+    "is_free": true
+  },
+  "creepy cute": {
+    "id": "emote-creepycute",
+    "duration": 7.902453,
+    "is_free": true
+  },
+  "57": {
+    "id": "emote-creepycute",
+    "duration": 7.902453,
+    "is_free": true
+  },
+  "pose10": {
+    "id": "emote-pose10",
+    "duration": 3.989871,
+    "is_free": true
+  },
+  "58": {
+    "id": "emote-pose10",
+    "duration": 3.989871,
+    "is_free": true
+  },
+  "repose": {
+    "id": "sit-relaxed",
+    "duration": 28.889858,
+    "is_free": true
+  },
+  "59": {
+    "id": "sit-relaxed",
+    "duration": 28.889858,
+    "is_free": true
+  },
+  "boxer": {
+    "id": "emote-boxer",
+    "duration": 5.555702,
+    "is_free": true
+  },
+  "60": {
+    "id": "emote-boxer",
+    "duration": 5.555702,
+    "is_free": true
+  },
+  "creepy puppet": {
+    "id": "dance-creepypuppet",
+    "duration": 6.416121,
+    "is_free": true
+  },
+  "61": {
+    "id": "dance-creepypuppet",
+    "duration": 6.416121,
+    "is_free": true
+  },
+  "penguin": {
+    "id": "dance-pinguin",
+    "duration": 11.58291,
+    "is_free": true
+  },
+  "62": {
+    "id": "dance-pinguin",
+    "duration": 11.58291,
+    "is_free": true
+  },
+  "yes": {
+    "id": "emote-yes",
+    "duration": 2.565001,
+    "is_free": true
+  },
+  "63": {
+    "id": "emote-yes",
+    "duration": 2.565001,
+    "is_free": true
+  },
+  "tired": {
+    "id": "emote-tired",
+    "duration": 4.61063,
+    "is_free": true
+  },
+  "64": {
+    "id": "emote-tired",
+    "duration": 4.61063,
+    "is_free": true
+  },
+  "sad": {
+    "id": "emote-sad",
+    "duration": 5.411073,
+    "is_free": true
+  },
+  "65": {
+    "id": "emote-sad",
+    "duration": 5.411073,
+    "is_free": true
+  },
+  "kiss": {
+    "id": "emote-kiss",
+    "duration": 2.387175,
+    "is_free": true
+  },
+  "66": {
+    "id": "emote-kiss",
+    "duration": 2.387175,
+    "is_free": true
+  },
+  "jinglebell": {
+    "id": "dance-jinglebell",
+    "duration": 10.958832,
+    "is_free": true
+  },
+  "67": {
+    "id": "dance-jinglebell",
+    "duration": 10.958832,
+    "is_free": true
+  },
+  "nervous": {
+    "id": "idle-nervous",
+    "duration": 21.714221,
+    "is_free": true
+  },
+  "68": {
+    "id": "idle-nervous",
+    "duration": 21.714221,
+    "is_free": true
+  },
+  "toilet": {
+    "id": "idle-toilet",
+    "duration": 32.174447,
+    "is_free": false
+  },
+  "69": {
+    "id": "idle-toilet",
+    "duration": 32.174447,
+    "is_free": false
+  },
+  "astronaut": {
+    "id": "emote-astronaut",
+    "duration": 13.791175,
+    "is_free": true
+  },
+  "70": {
+    "id": "emote-astronaut",
+    "duration": 13.791175,
+    "is_free": true
+  },
+  "anime dance": {
+    "id": "dance-anime",
+    "duration": 8.46671,
+    "is_free": true
+  },
+  "71": {
+    "id": "dance-anime",
+    "duration": 8.46671,
+    "is_free": true
+  },
+  "ice skating": {
+    "id": "emote-iceskating",
+    "duration": 7.299156,
+    "is_free": true
+  },
+  "72": {
+    "id": "emote-iceskating",
+    "duration": 7.299156,
+    "is_free": true
+  },
+  "head blowup": {
+    "id": "emote-headblowup",
+    "duration": 11.667537,
+    "is_free": false
+  },
+  "73": {
+    "id": "emote-headblowup",
+    "duration": 11.667537,
+    "is_free": false
+  },
+  "ditzy pose": {
+    "id": "emote-pose9",
+    "duration": 4.583117,
+    "is_free": true
+  },
+  "74": {
+    "id": "emote-pose9",
+    "duration": 4.583117,
+    "is_free": true
+  },
+  "gift": {
+    "id": "emote-gift",
+    "duration": 5.8,
+    "is_free": true
+  },
+  "75": {
+    "id": "emote-gift",
+    "duration": 5.8,
+    "is_free": true
+  },
+  "push it": {
+    "id": "dance-employee",
+    "duration": 8.0,
+    "is_free": true
+  },
+  "76": {
+    "id": "dance-employee",
+    "duration": 8.0,
+    "is_free": true
+  },
+  "launch": {
+    "id": "emote-launch",
+    "duration": 7.997,
+    "is_free": true
+  },
+  "77": {
+    "id": "emote-launch",
+    "duration": 7.997,
+    "is_free": true
+  },
+  "salute": {
+    "id": "emote-salute",
+    "duration": 2.706,
+    "is_free": true
+  },
+  "78": {
+    "id": "emote-salute",
+    "duration": 2.706,
+    "is_free": true
+  },
+  "cute salute": {
+    "id": "emote-cutesalute",
+    "duration": 2.76,
+    "is_free": true
+  },
+  "79": {
+    "id": "emote-cutesalute",
+    "duration": 2.76,
+    "is_free": true
+  },
+  "fairy twirl": {
+    "id": "emote-looping",
+    "duration": 9.0,
+    "is_free": true
+  },
+  "80": {
+    "id": "emote-looping",
+    "duration": 9.0,
+    "is_free": true
+  },
+  "fairy float": {
+    "id": "idle-floating",
+    "duration": 26.3,
+    "is_free": true
+  },
+  "81": {
+    "id": "idle-floating",
+    "duration": 26.3,
+    "is_free": true
+  },
+  "smooch": {
+    "id": "emote-kissing-bound",
+    "duration": 5.6,
+    "is_free": false
+  },
+  "82": {
+    "id": "emote-kissing-bound",
+    "duration": 5.6,
+    "is_free": false
+  },
+  "fishing pull": {
+    "id": "fishing-pull",
+    "duration": 1.0,
+    "is_free": true
+  },
+  "83": {
+    "id": "fishing-pull",
+    "duration": 1.0,
+    "is_free": true
+  },
+  "fishing cast": {
+    "id": "fishing-cast",
+    "duration": 1.5,
+    "is_free": true
+  },
+  "84": {
+    "id": "fishing-cast",
+    "duration": 1.5,
+    "is_free": true
+  },
+  "fishing": {
+    "id": "fishing-idle",
+    "duration": 16.0,
+    "is_free": true
+  },
+  "85": {
+    "id": "fishing-idle",
+    "duration": 16.0,
+    "is_free": true
+  },
+  "mining": {
+    "id": "mining-mine",
+    "duration": 3.0,
+    "is_free": true
+  },
+  "86": {
+    "id": "mining-mine",
+    "duration": 3.0,
+    "is_free": true
+  },
+  "mine success": {
+    "id": "mining-success",
+    "duration": 2.5,
+    "is_free": true
+  },
+  "87": {
+    "id": "mining-success",
+    "duration": 2.5,
+    "is_free": true
+  },
+  "mine fail": {
+    "id": "mining-fail",
+    "duration": 2.5,
+    "is_free": true
+  },
+  "88": {
+    "id": "mining-fail",
+    "duration": 2.5,
+    "is_free": true
+  },
+  "tough": {
+    "id": "idle_tough",
+    "duration": 26.9,
+    "is_free": true
+  },
+  "89": {
+    "id": "idle_tough",
+    "duration": 26.9,
+    "is_free": true
+  },
+  "fail": {
+    "id": "emote-fail3",
+    "duration": 6.3,
+    "is_free": true
+  },
+  "90": {
+    "id": "emote-fail3",
+    "duration": 6.3,
+    "is_free": true
+  },
+  "disappointed": {
+    "id": "emote-receive-disappointed",
+    "duration": 5.4,
+    "is_free": true
+  },
+  "91": {
+    "id": "emote-receive-disappointed",
+    "duration": 5.4,
+    "is_free": true
+  },
+  "cold": {
+    "id": "emote-cold",
+    "duration": 3.664348,
+    "is_free": true
+  },
+  "92": {
+    "id": "emote-cold",
+    "duration": 3.664348,
+    "is_free": true
+  },
+  "wop": {
+    "id": "dance-tiktok11",
+    "duration": 10.0,
+    "is_free": true
+  },
+  "93": {
+    "id": "dance-tiktok11",
+    "duration": 10.0,
+    "is_free": true
+  },
+  "party": {
+    "id": "emote-celebrate",
+    "duration": 3.3,
+    "is_free": true
+  },
+  "94": {
+    "id": "emote-celebrate",
+    "duration": 3.3,
+    "is_free": true
+  },
+  "stargazing": {
+    "id": "emote-stargazer",
+    "duration": 6.7,
+    "is_free": true
+  },
+  "95": {
+    "id": "emote-stargazer",
+    "duration": 6.7,
+    "is_free": true
+  },
+  "ghostfloat": {
+    "id": "emote-ghost-idle",
+    "duration": 18.570492,
+    "is_free": true
+  },
+  "96": {
+    "id": "emote-ghost-idle",
+    "duration": 18.570492,
+    "is_free": true
+  },
+  "relaxed": {
+    "id": "idle_layingdown2",
+    "duration": 20.546653,
+    "is_free": true
+  },
+  "97": {
+    "id": "idle_layingdown2",
+    "duration": 20.546653,
+    "is_free": true
+  },
+  "attentive": {
+    "id": "idle_layingdown",
+    "duration": 23.585168,
+    "is_free": true
+  },
+  "98": {
+    "id": "idle_layingdown",
+    "duration": 23.585168,
+    "is_free": true
+  },
+  "sleepy": {
+    "id": "idle-loop-tired",
+    "duration": 21.959007,
+    "is_free": true
+  },
+  "99": {
+    "id": "idle-loop-tired",
+    "duration": 21.959007,
+    "is_free": true
+  },
+  "pouty face": {
+    "id": "idle-sad",
+    "duration": 24.377214,
+    "is_free": true
+  },
+  "100": {
+    "id": "idle-sad",
+    "duration": 24.377214,
+    "is_free": true
+  },
+  "posh": {
+    "id": "idle-posh",
+    "duration": 21.851256,
+    "is_free": true
+  },
+  "101": {
+    "id": "idle-posh",
+    "duration": 21.851256,
+    "is_free": true
+  },
+  "tap loop": {
+    "id": "idle-loop-tapdance",
+    "duration": 6.261593,
+    "is_free": true
+  },
+  "102": {
+    "id": "idle-loop-tapdance",
+    "duration": 6.261593,
+    "is_free": true
+  },
+  "sit": {
+    "id": "idle-loop-sitfloor",
+    "duration": 22.321055,
+    "is_free": true
+  },
+  "103": {
+    "id": "idle-loop-sitfloor",
+    "duration": 22.321055,
+    "is_free": true
+  },
+  "bummed": {
+    "id": "idle-loop-sad",
+    "duration": 6.052999,
+    "is_free": true
+  },
+  "104": {
+    "id": "idle-loop-sad",
+    "duration": 6.052999,
+    "is_free": true
+  },
+  "chillin'": {
+    "id": "idle-loop-happy",
+    "duration": 18.798322,
+    "is_free": true
+  },
+  "105": {
+    "id": "idle-loop-happy",
+    "duration": 18.798322,
+    "is_free": true
+  },
+  "annoyed": {
+    "id": "idle-loop-annoyed",
+    "duration": 17.058522,
+    "is_free": true
+  },
+  "106": {
+    "id": "idle-loop-annoyed",
+    "duration": 17.058522,
+    "is_free": true
+  },
+  "aerobics": {
+    "id": "idle-loop-aerobics",
+    "duration": 8.507535,
+    "is_free": true
+  },
+  "107": {
+    "id": "idle-loop-aerobics",
+    "duration": 8.507535,
+    "is_free": true
+  },
+  "ponder": {
+    "id": "idle-lookup",
+    "duration": 22.339865,
+    "is_free": true
+  },
+  "108": {
+    "id": "idle-lookup",
+    "duration": 22.339865,
+    "is_free": true
+  },
+  "hero pose": {
+    "id": "idle-hero",
+    "duration": 20.877099,
+    "is_free": true
+  },
+  "109": {
+    "id": "idle-hero",
+    "duration": 20.877099,
+    "is_free": true
+  },
+  "relaxing": {
+    "id": "idle-floorsleeping2",
+    "duration": 16.253372,
+    "is_free": true
+  },
+  "110": {
+    "id": "idle-floorsleeping2",
+    "duration": 16.253372,
+    "is_free": true
+  },
+  "cozy nap": {
+    "id": "idle-floorsleeping",
+    "duration": 12.935264,
+    "is_free": true
+  },
+  "111": {
+    "id": "idle-floorsleeping",
+    "duration": 12.935264,
+    "is_free": true
+  },
+  "feel the beat": {
+    "id": "idle-dance-headbobbing",
+    "duration": 25.367458,
+    "is_free": true
+  },
+  "112": {
+    "id": "idle-dance-headbobbing",
+    "duration": 25.367458,
+    "is_free": true
+  },
+  "irritated": {
+    "id": "idle-angry",
+    "duration": 25.427848,
+    "is_free": true
+  },
+  "113": {
+    "id": "idle-angry",
+    "duration": 25.427848,
+    "is_free": true
+  },
+  "i believe i can fly": {
+    "id": "emote-wings",
+    "duration": 13.134487,
+    "is_free": true
+  },
+  "114": {
+    "id": "emote-wings",
+    "duration": 13.134487,
+    "is_free": true
+  },
+  "the wave": {
+    "id": "emote-wave",
+    "duration": 2.690873,
+    "is_free": true
+  },
+  "115": {
+    "id": "emote-wave",
+    "duration": 2.690873,
+    "is_free": true
+  },
+  "think": {
+    "id": "emote-think",
+    "duration": 3.691104,
+    "is_free": true
+  },
+  "116": {
+    "id": "emote-think",
+    "duration": 3.691104,
+    "is_free": true
+  },
+  "theatrical": {
+    "id": "emote-theatrical",
+    "duration": 8.591869,
+    "is_free": true
+  },
+  "117": {
+    "id": "emote-theatrical",
+    "duration": 8.591869,
+    "is_free": true
+  },
+  "tap dance": {
+    "id": "emote-tapdance",
+    "duration": 11.057294,
+    "is_free": true
+  },
+  "118": {
+    "id": "emote-tapdance",
+    "duration": 11.057294,
+    "is_free": true
+  },
+  "super run": {
+    "id": "emote-superrun",
+    "duration": 6.273226,
+    "is_free": true
+  },
+  "119": {
+    "id": "emote-superrun",
+    "duration": 6.273226,
+    "is_free": true
+  },
+  "super punch": {
+    "id": "emote-superpunch",
+    "duration": 3.751054,
+    "is_free": true
+  },
+  "120": {
+    "id": "emote-superpunch",
+    "duration": 3.751054,
+    "is_free": true
+  },
+  "sumo fight": {
+    "id": "emote-sumo",
+    "duration": 10.868834,
+    "is_free": true
+  },
+  "121": {
+    "id": "emote-sumo",
+    "duration": 10.868834,
+    "is_free": true
+  },
+  "thumb suck": {
+    "id": "emote-suckthumb",
+    "duration": 4.185944,
+    "is_free": true
+  },
+  "122": {
+    "id": "emote-suckthumb",
+    "duration": 4.185944,
+    "is_free": true
+  },
+  "splits drop": {
+    "id": "emote-splitsdrop",
+    "duration": 4.46931,
+    "is_free": true
+  },
+  "123": {
+    "id": "emote-splitsdrop",
+    "duration": 4.46931,
+    "is_free": true
+  },
+  "secret handshake": {
+    "id": "emote-secrethandshake",
+    "duration": 3.879024,
+    "is_free": true
+  },
+  "124": {
+    "id": "emote-secrethandshake",
+    "duration": 3.879024,
+    "is_free": true
+  },
+  "rope pull": {
+    "id": "emote-ropepull",
+    "duration": 8.769656,
+    "is_free": true
+  },
+  "125": {
+    "id": "emote-ropepull",
+    "duration": 8.769656,
+    "is_free": true
+  },
+  "roll": {
+    "id": "emote-roll",
+    "duration": 3.560517,
+    "is_free": true
+  },
+  "126": {
+    "id": "emote-roll",
+    "duration": 3.560517,
+    "is_free": true
+  },
+  "rofl": {
+    "id": "emote-rofl",
+    "duration": 6.314731,
+    "is_free": true
+  },
+  "127": {
+    "id": "emote-rofl",
+    "duration": 6.314731,
+    "is_free": true
+  },
+  "robot": {
+    "id": "emote-robot",
+    "duration": 7.607362,
+    "is_free": true
+  },
+  "128": {
+    "id": "emote-robot",
+    "duration": 7.607362,
+    "is_free": true
+  },
+  "rainbow": {
+    "id": "emote-rainbow",
+    "duration": 2.813373,
+    "is_free": true
+  },
+  "129": {
+    "id": "emote-rainbow",
+    "duration": 2.813373,
+    "is_free": true
+  },
+  "proposing": {
+    "id": "emote-proposing",
+    "duration": 4.27888,
+    "is_free": true
+  },
+  "130": {
+    "id": "emote-proposing",
+    "duration": 4.27888,
+    "is_free": true
+  },
+  "peekaboo!": {
+    "id": "emote-peekaboo",
+    "duration": 3.629867,
+    "is_free": true
+  },
+  "131": {
+    "id": "emote-peekaboo",
+    "duration": 3.629867,
+    "is_free": true
+  },
+  "peace": {
+    "id": "emote-peace",
+    "duration": 5.755004,
+    "is_free": true
+  },
+  "132": {
+    "id": "emote-peace",
+    "duration": 5.755004,
+    "is_free": true
+  },
+  "panic": {
+    "id": "emote-panic",
+    "duration": 2.850966,
+    "is_free": true
+  },
+  "133": {
+    "id": "emote-panic",
+    "duration": 2.850966,
+    "is_free": true
+  },
+  "no": {
+    "id": "emote-no",
+    "duration": 2.703034,
+    "is_free": true
+  },
+  "134": {
+    "id": "emote-no",
+    "duration": 2.703034,
+    "is_free": true
+  },
+  "ninja run": {
+    "id": "emote-ninjarun",
+    "duration": 4.754721,
+    "is_free": true
+  },
+  "135": {
+    "id": "emote-ninjarun",
+    "duration": 4.754721,
+    "is_free": true
+  },
+  "night fever": {
+    "id": "emote-nightfever",
+    "duration": 5.488424,
+    "is_free": true
+  },
+  "136": {
+    "id": "emote-nightfever",
+    "duration": 5.488424,
+    "is_free": true
+  },
+  "monster fail": {
+    "id": "emote-monster_fail",
+    "duration": 4.632708,
+    "is_free": true
+  },
+  "137": {
+    "id": "emote-monster_fail",
+    "duration": 4.632708,
+    "is_free": true
+  },
+  "level up!": {
+    "id": "emote-levelup",
+    "duration": 6.0545,
+    "is_free": true
+  },
+  "138": {
+    "id": "emote-levelup",
+    "duration": 6.0545,
+    "is_free": true
+  },
+  "amused": {
+    "id": "emote-laughing2",
+    "duration": 5.056641,
+    "is_free": true
+  },
+  "139": {
+    "id": "emote-laughing2",
+    "duration": 5.056641,
+    "is_free": true
+  },
+  "laugh": {
+    "id": "emote-laughing",
+    "duration": 2.69161,
+    "is_free": true
+  },
+  "140": {
+    "id": "emote-laughing",
+    "duration": 2.69161,
+    "is_free": true
+  },
+  "super kick": {
+    "id": "emote-kicking",
+    "duration": 4.867992,
+    "is_free": true
+  },
+  "141": {
+    "id": "emote-kicking",
+    "duration": 4.867992,
+    "is_free": true
+  },
+  "jump": {
+    "id": "emote-jumpb",
+    "duration": 3.584234,
+    "is_free": true
+  },
+  "142": {
+    "id": "emote-jumpb",
+    "duration": 3.584234,
+    "is_free": true
+  },
+  "judo chop": {
+    "id": "emote-judochop",
+    "duration": 2.427442,
+    "is_free": true
+  },
+  "143": {
+    "id": "emote-judochop",
+    "duration": 2.427442,
+    "is_free": true
+  },
+  "imaginary jetpack": {
+    "id": "emote-jetpack",
+    "duration": 16.759457,
+    "is_free": true
+  },
+  "144": {
+    "id": "emote-jetpack",
+    "duration": 16.759457,
+    "is_free": true
+  },
+  "hug yourself": {
+    "id": "emote-hugyourself",
+    "duration": 4.992751,
+    "is_free": true
+  },
+  "145": {
+    "id": "emote-hugyourself",
+    "duration": 4.992751,
+    "is_free": true
+  },
+  "hello": {
+    "id": "emote-hello",
+    "duration": 2.734844,
+    "is_free": true
+  },
+  "146": {
+    "id": "emote-hello",
+    "duration": 2.734844,
+    "is_free": true
+  },
+  "harlem shake": {
+    "id": "emote-harlemshake",
+    "duration": 13.558597,
+    "is_free": true
+  },
+  "147": {
+    "id": "emote-harlemshake",
+    "duration": 13.558597,
+    "is_free": true
+  },
+  "happy": {
+    "id": "emote-happy",
+    "duration": 3.483462,
+    "is_free": true
+  },
+  "148": {
+    "id": "emote-happy",
+    "duration": 3.483462,
+    "is_free": true
+  },
+  "handstand": {
+    "id": "emote-handstand",
+    "duration": 4.015678,
+    "is_free": true
+  },
+  "149": {
+    "id": "emote-handstand",
+    "duration": 4.015678,
+    "is_free": true
+  },
+  "moonwalk": {
+    "id": "emote-gordonshuffle",
+    "duration": 8.052307,
+    "is_free": true
+  },
+  "150": {
+    "id": "emote-gordonshuffle",
+    "duration": 8.052307,
+    "is_free": true
+  },
+  "gangnam style": {
+    "id": "emote-gangnam",
+    "duration": 7.275486,
+    "is_free": true
+  },
+  "151": {
+    "id": "emote-gangnam",
+    "duration": 7.275486,
+    "is_free": true
+  },
+  "faint": {
+    "id": "emote-fainting",
+    "duration": 18.423499,
+    "is_free": true
+  },
+  "152": {
+    "id": "emote-fainting",
+    "duration": 18.423499,
+    "is_free": true
+  },
+  "clumsy": {
+    "id": "emote-fail2",
+    "duration": 6.475972,
+    "is_free": true
+  },
+  "153": {
+    "id": "emote-fail2",
+    "duration": 6.475972,
+    "is_free": true
+  },
+  "fall": {
+    "id": "emote-fail1",
+    "duration": 5.617942,
+    "is_free": true
+  },
+  "154": {
+    "id": "emote-fail1",
+    "duration": 5.617942,
+    "is_free": true
+  },
+  "face palm": {
+    "id": "emote-exasperatedb",
+    "duration": 2.722748,
+    "is_free": true
+  },
+  "155": {
+    "id": "emote-exasperatedb",
+    "duration": 2.722748,
+    "is_free": true
+  },
+  "exasperated": {
+    "id": "emote-exasperated",
+    "duration": 2.367483,
+    "is_free": true
+  },
+  "156": {
+    "id": "emote-exasperated",
+    "duration": 2.367483,
+    "is_free": true
+  },
+  "elbow bump": {
+    "id": "emote-elbowbump",
+    "duration": 3.799768,
+    "is_free": true
+  },
+  "157": {
+    "id": "emote-elbowbump",
+    "duration": 3.799768,
+    "is_free": true
+  },
+  "disco": {
+    "id": "emote-disco",
+    "duration": 5.366973,
+    "is_free": true
+  },
+  "158": {
+    "id": "emote-disco",
+    "duration": 5.366973,
+    "is_free": true
+  },
+  "blast off": {
+    "id": "emote-disappear",
+    "duration": 6.195985,
+    "is_free": true
+  },
+  "159": {
+    "id": "emote-disappear",
+    "duration": 6.195985,
+    "is_free": true
+  },
+  "faint drop": {
+    "id": "emote-deathdrop",
+    "duration": 3.762728,
+    "is_free": true
+  },
+  "160": {
+    "id": "emote-deathdrop",
+    "duration": 3.762728,
+    "is_free": true
+  },
+  "collapse": {
+    "id": "emote-death2",
+    "duration": 4.855549,
+    "is_free": true
+  },
+  "161": {
+    "id": "emote-death2",
+    "duration": 4.855549,
+    "is_free": true
+  },
+  "revival": {
+    "id": "emote-death",
+    "duration": 6.615967,
+    "is_free": true
+  },
+  "162": {
+    "id": "emote-death",
+    "duration": 6.615967,
+    "is_free": true
+  },
+  "dab": {
+    "id": "emote-dab",
+    "duration": 2.717871,
+    "is_free": true
+  },
+  "163": {
+    "id": "emote-dab",
+    "duration": 2.717871,
+    "is_free": true
+  },
+  "bunny hop": {
+    "id": "emote-bunnyhop",
+    "duration": 12.380685,
+    "is_free": true
+  },
+  "164": {
+    "id": "emote-bunnyhop",
+    "duration": 12.380685,
+    "is_free": true
+  },
+  "boo": {
+    "id": "emote-boo",
+    "duration": 4.501502,
+    "is_free": true
+  },
+  "165": {
+    "id": "emote-boo",
+    "duration": 4.501502,
+    "is_free": true
+  },
+  "home run": {
+    "id": "emote-baseball",
+    "duration": 7.254841,
+    "is_free": true
+  },
+  "166": {
+    "id": "emote-baseball",
+    "duration": 7.254841,
+    "is_free": true
+  },
+  "falling apart": {
+    "id": "emote-apart",
+    "duration": 4.809542,
+    "is_free": true
+  },
+  "167": {
+    "id": "emote-apart",
+    "duration": 4.809542,
+    "is_free": true
+  },
+  "thumbs up": {
+    "id": "emoji-thumbsup",
+    "duration": 2.702369,
+    "is_free": true
+  },
+  "168": {
+    "id": "emoji-thumbsup",
+    "duration": 2.702369,
+    "is_free": true
+  },
+  "point": {
+    "id": "emoji-there",
+    "duration": 2.059095,
+    "is_free": true
+  },
+  "169": {
+    "id": "emoji-there",
+    "duration": 2.059095,
+    "is_free": true
+  },
+  "sneeze": {
+    "id": "emoji-sneeze",
+    "duration": 2.996694,
+    "is_free": true
+  },
+  "170": {
+    "id": "emoji-sneeze",
+    "duration": 2.996694,
+    "is_free": true
+  },
+  "smirk": {
+    "id": "emoji-smirking",
+    "duration": 4.823158,
+    "is_free": true
+  },
+  "171": {
+    "id": "emoji-smirking",
+    "duration": 4.823158,
+    "is_free": true
+  },
+  "sick": {
+    "id": "emoji-sick",
+    "duration": 5.070367,
+    "is_free": true
+  },
+  "172": {
+    "id": "emoji-sick",
+    "duration": 5.070367,
+    "is_free": true
+  },
+  "gasp": {
+    "id": "emoji-scared",
+    "duration": 3.008487,
+    "is_free": true
+  },
+  "173": {
+    "id": "emoji-scared",
+    "duration": 3.008487,
+    "is_free": true
+  },
+  "punch": {
+    "id": "emoji-punch",
+    "duration": 1.755783,
+    "is_free": true
+  },
+  "174": {
+    "id": "emoji-punch",
+    "duration": 1.755783,
+    "is_free": true
+  },
+  "pray": {
+    "id": "emoji-pray",
+    "duration": 4.503179,
+    "is_free": true
+  },
+  "175": {
+    "id": "emoji-pray",
+    "duration": 4.503179,
+    "is_free": true
+  },
+  "stinky": {
+    "id": "emoji-poop",
+    "duration": 4.795735,
+    "is_free": true
+  },
+  "176": {
+    "id": "emoji-poop",
+    "duration": 4.795735,
+    "is_free": true
+  },
+  "naughty": {
+    "id": "emoji-naughty",
+    "duration": 4.277602,
+    "is_free": true
+  },
+  "177": {
+    "id": "emoji-naughty",
+    "duration": 4.277602,
+    "is_free": true
+  },
+  "mind blown": {
+    "id": "emoji-mind-blown",
+    "duration": 2.397167,
+    "is_free": true
+  },
+  "178": {
+    "id": "emoji-mind-blown",
+    "duration": 2.397167,
+    "is_free": true
+  },
+  "lying": {
+    "id": "emoji-lying",
+    "duration": 6.313748,
+    "is_free": true
+  },
+  "179": {
+    "id": "emoji-lying",
+    "duration": 6.313748,
+    "is_free": true
+  },
+  "levitate": {
+    "id": "emoji-halo",
+    "duration": 5.837754,
+    "is_free": true
+  },
+  "180": {
+    "id": "emoji-halo",
+    "duration": 5.837754,
+    "is_free": true
+  },
+  "fireball lunge": {
+    "id": "emoji-hadoken",
+    "duration": 2.723709,
+    "is_free": true
+  },
+  "181": {
+    "id": "emoji-hadoken",
+    "duration": 2.723709,
+    "is_free": true
+  },
+  "give up": {
+    "id": "emoji-give-up",
+    "duration": 5.407888,
+    "is_free": true
+  },
+  "182": {
+    "id": "emoji-give-up",
+    "duration": 5.407888,
+    "is_free": true
+  },
+  "stunned": {
+    "id": "emoji-dizzy",
+    "duration": 4.053049,
+    "is_free": true
+  },
+  "183": {
+    "id": "emoji-dizzy",
+    "duration": 4.053049,
+    "is_free": true
+  },
+  "sob": {
+    "id": "emoji-crying",
+    "duration": 3.696499,
+    "is_free": true
+  },
+  "184": {
+    "id": "emoji-crying",
+    "duration": 3.696499,
+    "is_free": true
+  },
+  "clap": {
+    "id": "emoji-clapping",
+    "duration": 2.161757,
+    "is_free": true
+  },
+  "185": {
+    "id": "emoji-clapping",
+    "duration": 2.161757,
+    "is_free": true
+  },
+  "arrogance": {
+    "id": "emoji-arrogance",
+    "duration": 6.869441,
+    "is_free": true
+  },
+  "186": {
+    "id": "emoji-arrogance",
+    "duration": 6.869441,
+    "is_free": true
+  },
+  "angry": {
+    "id": "emoji-angry",
+    "duration": 5.760023,
+    "is_free": true
+  },
+  "187": {
+    "id": "emoji-angry",
+    "duration": 5.760023,
+    "is_free": true
+  },
+  "vogue hands": {
+    "id": "dance-voguehands",
+    "duration": 9.150634,
+    "is_free": true
+  },
+  "188": {
+    "id": "dance-voguehands",
+    "duration": 9.150634,
+    "is_free": true
+  },
+  "smoothwalk": {
+    "id": "dance-smoothwalk",
+    "duration": 6.690023,
+    "is_free": true
+  },
+  "189": {
+    "id": "dance-smoothwalk",
+    "duration": 6.690023,
+    "is_free": true
+  },
+  "ring on it": {
+    "id": "dance-singleladies",
+    "duration": 21.191372,
+    "is_free": true
+  },
+  "190": {
+    "id": "dance-singleladies",
+    "duration": 21.191372,
+    "is_free": true
+  },
+  "orange juice": {
+    "id": "dance-orangejustice",
+    "duration": 6.475263,
+    "is_free": true
+  },
+  "191": {
+    "id": "dance-orangejustice",
+    "duration": 6.475263,
+    "is_free": true
+  },
+  "rock out": {
+    "id": "dance-metal",
+    "duration": 15.076377,
+    "is_free": true
+  },
+  "192": {
+    "id": "dance-metal",
+    "duration": 15.076377,
+    "is_free": true
+  },
+  "macarena": {
+    "id": "dance-macarena",
+    "duration": 12.214141,
+    "is_free": true
+  },
+  "193": {
+    "id": "dance-macarena",
+    "duration": 12.214141,
+    "is_free": true
+  },
+  "hands in the air": {
+    "id": "dance-handsup",
+    "duration": 22.283413,
+    "is_free": true
+  },
+  "194": {
+    "id": "dance-handsup",
+    "duration": 22.283413,
+    "is_free": true
+  },
+  "duck walk": {
+    "id": "dance-duckwalk",
+    "duration": 11.748784,
+    "is_free": true
+  },
+  "195": {
+    "id": "dance-duckwalk",
+    "duration": 11.748784,
+    "is_free": true
+  },
+  "push ups": {
+    "id": "dance-aerobics",
+    "duration": 8.796402,
+    "is_free": true
+  },
+  "196": {
+    "id": "dance-aerobics",
+    "duration": 8.796402,
+    "is_free": true
+  },
+  "attention": {
+    "id": "emote-attention",
+    "duration": 4.401206,
+    "is_free": true
+  },
+  "197": {
+    "id": "emote-attention",
+    "duration": 4.401206,
+    "is_free": true
+  },
+  "ghost": {
+    "id": "emoji-ghost",
+    "duration": 3.472759,
+    "is_free": true
+  },
+  "198": {
+    "id": "emoji-ghost",
+    "duration": 3.472759,
+    "is_free": true
+  },
+  "heart eyes": {
+    "id": "emote-hearteyes",
+    "duration": 4.034386,
+    "is_free": true
+  },
+  "199": {
+    "id": "emote-hearteyes",
+    "duration": 4.034386,
+    "is_free": true
+  },
+  "heart fingers": {
+    "id": "emote-heartfingers",
+    "duration": 4.001974,
+    "is_free": true
+  },
+  "200": {
+    "id": "emote-heartfingers",
+    "duration": 4.001974,
+    "is_free": true
+  },
+  "heart shape": {
+    "id": "emote-heartshape",
+    "duration": 6.232394,
+    "is_free": true
+  },
+  "201": {
+    "id": "emote-heartshape",
+    "duration": 6.232394,
+    "is_free": true
+  },
+  "eyeroll": {
+    "id": "emoji-eyeroll",
+    "duration": 3.020264,
+    "is_free": true
+  },
+  "202": {
+    "id": "emoji-eyeroll",
+    "duration": 3.020264,
+    "is_free": true
+  },
+  "embarrassed": {
+    "id": "emote-embarrassed",
+    "duration": 7.414283,
+    "is_free": true
+  },
+  "203": {
+    "id": "emote-embarrassed",
+    "duration": 7.414283,
+    "is_free": true
+  },
+  "sexy": {
+    "id": "dance-sexy",
+    "duration": 12.30883,
+    "is_free": true
+  },
+  "204": {
+    "id": "dance-sexy",
+    "duration": 12.30883,
+    "is_free": true
+  },
+  "puppet": {
+    "id": "emote-puppet",
+    "duration": 16.325823,
+    "is_free": true
+  },
+  "205": {
+    "id": "emote-puppet",
+    "duration": 16.325823,
+    "is_free": true
+  },
+  "fighter": {
+    "id": "idle-fighter",
+    "duration": 17.19123,
+    "is_free": true
+  },
+  "206": {
+    "id": "idle-fighter",
+    "duration": 17.19123,
+    "is_free": true
+  },
+  "frustrated": {
+    "id": "emote-frustrated",
+    "duration": 5.584622,
+    "is_free": true
+  },
+  "207": {
+    "id": "emote-frustrated",
+    "duration": 5.584622,
+    "is_free": true
+  },
+  "laid back": {
+    "id": "sit-open",
+    "duration": 26.025963,
+    "is_free": true
+  },
+  "208": {
+    "id": "sit-open",
+    "duration": 26.025963,
+    "is_free": true
+  },
+  "slap": {
+    "id": "emote-slap",
+    "duration": 2.724945,
+    "is_free": true
+  },
+  "209": {
+    "id": "emote-slap",
+    "duration": 2.724945,
+    "is_free": true
+  },
+  "tiktok7": {
+    "id": "idle-dance-tiktok7",
+    "duration": 12.956484,
+    "is_free": true
+  },
+  "210": {
+    "id": "idle-dance-tiktok7",
+    "duration": 12.956484,
+    "is_free": true
+  },
+  "shrink": {
+    "id": "emote-shrink",
+    "duration": 8.738784,
+    "is_free": true
+  },
+  "211": {
+    "id": "emote-shrink",
+    "duration": 8.738784,
+    "is_free": true
+  },
+  "howl": {
+    "id": "emote-howl",
+    "duration": 4.75,
+    "is_free": false
+  },
+  "212": {
+    "id": "emote-howl",
+    "duration": 4.75,
+    "is_free": false
+  },
+  "bit nervous": {
+    "id": "idle-nervous",
+    "duration": 20,
+    "is_free": true
+  },
+  "213": {
+    "id": "idle-nervous",
+    "duration": 20,
+    "is_free": true
+  },
+  "karma dance": {
+    "id": "dance-wild",
+    "duration": 13.48,
+    "is_free": true
+  },
+  "214": {
+    "id": "dance-wild",
+    "duration": 13.48,
+    "is_free": true
+  },
+  "trampoline": {
+    "id": "emote-trampoline",
+    "duration": 4.26,
+    "is_free": false
+  },
+  "215": {
+    "id": "emote-trampoline",
+    "duration": 4.26,
+    "is_free": false
+  },
+  "nocturnal howl": {
+    "id": "idle-howl",
+    "duration": 30,
+    "is_free": false
+  },
+  "216": {
+    "id": "idle-howl",
+    "duration": 30,
+    "is_free": false
+  },
+  "cheer": {
+    "id": "dance-cheerleader",
+    "duration": 15.87,
+    "is_free": true
+  },
+  "217": {
+    "id": "dance-cheerleader",
+    "duration": 15.87,
+    "is_free": true
+  },
+  "hipshake": {
+    "id": "dance-hipshake",
+    "duration": 10.5,
+    "is_free": true
+  },
+  "218": {
+    "id": "dance-hipshake",
+    "duration": 10.5,
+    "is_free": true
+  },
+  "confused2": {
+    "id": "emote-confused2",
+    "duration": 7.1,
+    "is_free": true
+  },
+  "219": {
+    "id": "emote-confused2",
+    "duration": 7.1,
+    "is_free": true
+  },
+  "fruity": {
+    "id": "dance-fruity",
+    "duration": 16.5,
+    "is_free": true
+  },
+  "220": {
+    "id": "dance-fruity",
+    "duration": 16.5,
+    "is_free": true
+  },
+  "magnetic": {
+    "id": "dance-tiktok14",
+    "duration": 9.1,
+    "is_free": true
+  },
+  "221": {
+    "id": "dance-tiktok14",
+    "duration": 9.1,
+    "is_free": true
+  },
+  "coolguy": {
+    "id": "emote-coolguy",
+    "duration": 3.3,
+    "is_free": true
+  },
+  "222": {
+    "id": "emote-coolguy",
+    "duration": 3.3,
+    "is_free": true
+  },
+  "rifle throw": {
+    "id": "emote-rifle-throw",
+    "duration": 5.8,
+    "is_free": true
+  },
+  "223": {
+    "id": "emote-rifle-throw",
+    "duration": 5.8,
+    "is_free": true
+  },
+  "swing-sneak-idle": {
+    "id": "emote-swing-sneak-Idle",
+    "duration": 2.0,
+    "is_free": true
+  },
+  "224": {
+    "id": "emote-swing-sneak-Idle",
+    "duration": 2.0,
+    "is_free": true
+  },
+  "swing-net-3": {
+    "id": "emote-swing-net-3",
+    "duration": 1.6,
+    "is_free": true
+  },
+  "225": {
+    "id": "emote-swing-net-3",
+    "duration": 1.6,
+    "is_free": true
+  },
+  "swing-celebrate": {
+    "id": "emote-swing-celebrate",
+    "duration": 1.2,
+    "is_free": true
+  },
+  "226": {
+    "id": "emote-swing-celebrate",
+    "duration": 1.2,
+    "is_free": true
+  },
+  "swing-net-2": {
+    "id": "emote-swing-net-2",
+    "duration": 1.3,
+    "is_free": true
+  },
+  "227": {
+    "id": "emote-swing-net-2",
+    "duration": 1.3,
+    "is_free": true
+  },
+  "swing-net": {
+    "id": "emote-swing-net",
+    "duration": 1.2,
+    "is_free": true
+  },
+  "228": {
+    "id": "emote-swing-net",
+    "duration": 1.2,
+    "is_free": true
+  },
+  "renegade": {
+    "id": "idle-dance-tiktok7",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "229": {
+    "id": "idle-dance-tiktok7",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "dog": {
+    "id": "idle-howl",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "230": {
+    "id": "idle-howl",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "shuffledance": {
+    "id": "dance-tiktok10",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "231": {
+    "id": "dance-tiktok10",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "sayso": {
+    "id": "idle-dance-tiktok4",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "232": {
+    "id": "idle-dance-tiktok4",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "lol": {
+    "id": "emote-laughing",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "233": {
+    "id": "emote-laughing",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "handintheair": {
+    "id": "dance-handsup",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "234": {
+    "id": "dance-handsup",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "hug": {
+    "id": "emote-hug",
+    "duration": 10.0,
+    "is_free": false
+  },
+  "235": {
+    "id": "emote-hug",
+    "duration": 10.0,
+    "is_free": false
+  }
+}
