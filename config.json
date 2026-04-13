@@ -102,12 +102,10 @@
         "",
         ""
     ],
-    "radio_host": "sapircast.caster.fm",
-    "radio_port": 16864,
-    "radio_mount": "/FLyS7",
-    "radio_password": "uwr8MWBWTl",
-    "radio_username": "source",
-    "radio_bitrate": 96,
-    "relay_port": 10671,
-    "use_embedded_relay": true
+    {
+    "radio_host": "0.0.0.0",
+    "radio_port": 8080,
+    "radio_mount": "/stream",
+    "use_embedded_relay": true,
+    "stream_url": "http://0.0.0.0:8080/stream"
 }
