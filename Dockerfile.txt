@@ -1,0 +1,28 @@
+FROM python:3.11-slim
+
+# System tools: ffmpeg zaroori hai music ke liye
+RUN apt-get update && apt-get install -y ffmpeg build-essential && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+# Port open karna zaroori hai relay ke liye
+EXPOSE 8080 
+COPY . .
+
+# Setuptools fix
+RUN pip install --no-cache-dir setuptools==69.0.3
+
+# Latest yt-dlp aur baki libraries
+RUN pip install --no-cache-dir --upgrade yt-dlp
+RUN pip install --no-cache-dir \
+    highrise-bot-sdk==25.1.0 \
+    pendulum \
+    aiohttp \
+    cattrs \
+    quattro \
+    aiosignal \
+    frozenlist \
+    multidict \
+    yarl \
+    propcache
+
+CMD ["python", "main.py"]
